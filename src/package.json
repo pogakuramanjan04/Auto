@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "@material-ui/core": "latest",
+    "@material-ui/lab": "latest",
+    "react": "latest",
+    "react-dom": "latest"
+  },
+  "description": "https://github.com/mui-org/material-ui/blob/v4.x/docs/src/pages/components/autocomplete/ControllableStates.js",
+  "devDependencies": {
+    "react-scripts": "latest"
+  },
+  "title": "Material demo"
+}
